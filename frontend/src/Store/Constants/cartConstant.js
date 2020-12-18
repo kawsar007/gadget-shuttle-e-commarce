@@ -1,0 +1,1 @@
+export const CART_EMPTY = 'CART_EMPTY';
