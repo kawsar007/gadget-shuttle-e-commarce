@@ -42,11 +42,11 @@ function App() {
              Gadget Shuttle 
             </Link>
           </div>
-          <div>
+          {/* <div>
              <Link className="headerItem" to="/">Home</Link>
              <Link className="headerItem" to="/about">About Us</Link>
              <Link className="headerItem" to="/contact">Contact</Link>             
-          </div>
+          </div> */}
           <div className="cartSignIn">
             <Link to="/cart">
               cart <i class="fa fa-shopping-cart"></i>
